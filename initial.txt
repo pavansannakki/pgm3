@@ -1,0 +1,1 @@
+echo "Starting point for pgm3" 
